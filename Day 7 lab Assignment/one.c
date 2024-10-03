@@ -1,3 +1,6 @@
+// Write a menu driven program to create a linear queue using array and perform Enqueue, Dequeue,
+// Traverse, IsEmpty, IsFull operations.
+
 #include <stdio.h>
 #define MAX_SIZE 12
 int Queue[MAX_SIZE];
